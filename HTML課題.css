@@ -29,6 +29,7 @@ main{
 .gazou1{
 	width: 280px;
 	height: 150px;
+	background-image: url(chapter8exercise/flow01.png);
 	background-size: cover;
 	background-position: bottom;
 }
@@ -36,12 +37,14 @@ main{
 .gazou2{
 	width: 280px;
 	height: 150px;
+	background-image: url(chapter8exercise/flow02.png);
 	background-size: cover;
 	background-position: bottom;
 }
 .gazou3{
 	width: 280px;
 	height: 150px;
+	background-image: url(chapter8exercise/flow03.png);
 	background-size: cover;
 	background-position: bottom;
 }
@@ -77,16 +80,19 @@ main{
 	}
 	.gazou1{
 		width:100%;
+		background-image: url(chapter8exercise/flow01.png);
 		background-size: cover;
 		background-position: top;
 	}
 	.gazou2{
 		width:100%;
+		background-image: url(chapter8exercise/flow02.png);
 		background-size: cover;
 		background-position:top;
 	}
 	.gazou3{
 		width:100%;
+		background-image: url(chapter8exercise/flow03.png);
 		background-size: cover;
 		background-position: top;
 	}
